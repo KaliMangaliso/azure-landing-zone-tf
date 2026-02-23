@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 d7f95cc8f36c40536c037cd21efec2a48dd71423 Mangaliso Kali <kalimangaliso1@gmail.com> 1771840816 +0200	commit (initial): Initial Terraform Landing Zone commit
+d7f95cc8f36c40536c037cd21efec2a48dd71423 0000000000000000000000000000000000000000 Mangaliso Kali <kalimangaliso1@gmail.com> 1771840857 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 d7f95cc8f36c40536c037cd21efec2a48dd71423 Mangaliso Kali <kalimangaliso1@gmail.com> 1771840857 +0200	Branch: renamed refs/heads/master to refs/heads/main
+d7f95cc8f36c40536c037cd21efec2a48dd71423 97415609d07990e4801b320acaa6680521be7988 Mangaliso Kali <kalimangaliso1@gmail.com> 1771841415 +0200	commit: Clean repo: removed .terraform and added .gitignore
+97415609d07990e4801b320acaa6680521be7988 18ae9ffb1dc1813c7cde0146782087fbe0c3034e Mangaliso Kali <kalimangaliso1@gmail.com> 1771842004 +0200	commit: Clean repo: remove .terraform and apply .gitignore
+18ae9ffb1dc1813c7cde0146782087fbe0c3034e 1efc0330327b2e5984858199d4bbbf161d10b1d3 Mangaliso Kali <kalimangaliso1@gmail.com> 1771842439 +0200	commit: Clean repo: purge .terraform from history
