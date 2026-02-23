@@ -1,8 +1,8 @@
 # Choose your region
-location = "southafricanorth"
+location          = "southafricanorth"
 
 # Replace with your real Entra tenant GUID
-tenant_id = "00000000-0000-0000-0000-000000000000"
+tenant_id         = "c64cd139-e40e-4967-bc0b-1a72021890af"
 
 allowed_locations = [
   "southafricanorth",
