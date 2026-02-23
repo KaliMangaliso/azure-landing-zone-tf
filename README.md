@@ -7,4 +7,5 @@ This repository contains Terraform modules and environment configurations for a 
 - `modules/` — reusable Terraform modules (rg, vnet, loganalytics, keyvault, policy)
 - `envs/dev/` — development environment deployment
 - `docs/` — roadmap diagrams and standards documentation
+- Trigger CI test run
 ``
